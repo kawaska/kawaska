@@ -1,3 +1,3 @@
-- 👋 Hi, I'm @kawaska
+- 👋 Hi, I'm @kawaska, or Nikita
 - 👀 I am interested in programming and other programs
 - 🌱 Now I'm learning Python, Photoshop and want to learn Blender.
